@@ -1,0 +1,120 @@
+2016-05-17 15:57:23,337 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2016-05-17 15:57:23,490 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2016-05-17 15:57:23,490 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2016-05-17 15:57:23,490 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2016-05-17 15:57:23,491 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 0 username and machine bans.
+2016-05-17 15:57:23,491 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2016-05-17 15:57:23,722 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2016-05-17 15:57:23,884 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2016-05-17 15:57:23,886 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2016-05-17 15:57:23,892 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2016-05-17 15:57:23,917 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2016-05-17 15:57:23,943 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2016-05-17 15:57:23,943 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2016-05-17 15:57:23,947 INFO  - Plus.HabboHotel.Groups.GroupManager >> Group Manager -> LOADED
+2016-05-17 15:57:23,951 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2016-05-17 15:57:23,967 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2016-05-17 15:57:23,985 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2016-05-17 15:57:23,989 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2016-05-17 15:57:23,990 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2016-05-17 15:57:23,991 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2016-05-17 15:57:24,007 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2016-05-17 15:57:24,049 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2016-05-17 15:57:24,062 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2016-05-17 15:57:24,062 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2016-05-17 15:57:24,062 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2016-05-17 15:57:24,062 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2016-05-17 15:57:24,066 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2016-05-17 15:57:24,099 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2016-05-17 15:57:24,100 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2016-05-17 15:57:24,104 INFO  - Plus.PlusEnvironment >> EMULATOR -> READY! (0 s, 944 ms)
+2016-05-17 16:01:24,316 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2016-05-17 16:01:24,453 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2016-05-17 16:01:24,453 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2016-05-17 16:01:24,453 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2016-05-17 16:01:24,453 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 0 username and machine bans.
+2016-05-17 16:01:24,453 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2016-05-17 16:01:24,659 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2016-05-17 16:01:24,820 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2016-05-17 16:01:24,823 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2016-05-17 16:01:24,829 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2016-05-17 16:01:24,838 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2016-05-17 16:01:24,866 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2016-05-17 16:01:24,867 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2016-05-17 16:01:24,871 INFO  - Plus.HabboHotel.Groups.GroupManager >> Group Manager -> LOADED
+2016-05-17 16:01:24,875 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2016-05-17 16:01:24,892 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2016-05-17 16:01:24,910 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2016-05-17 16:01:24,914 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2016-05-17 16:01:24,915 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2016-05-17 16:01:24,917 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2016-05-17 16:01:24,934 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2016-05-17 16:01:24,981 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2016-05-17 16:01:24,994 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2016-05-17 16:01:24,994 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2016-05-17 16:01:24,994 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2016-05-17 16:01:24,995 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2016-05-17 16:01:24,998 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2016-05-17 16:01:25,034 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2016-05-17 16:01:25,035 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2016-05-17 16:01:25,038 INFO  - Plus.PlusEnvironment >> EMULATOR -> READY! (0 s, 904 ms)
+2016-05-17 16:04:20,038 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2016-05-17 16:04:20,209 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2016-05-17 16:04:20,209 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2016-05-17 16:04:20,209 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2016-05-17 16:04:20,209 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 0 username and machine bans.
+2016-05-17 16:04:20,210 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2016-05-17 16:04:20,412 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2016-05-17 16:04:20,586 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2016-05-17 16:04:20,589 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2016-05-17 16:04:20,595 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2016-05-17 16:04:20,607 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2016-05-17 16:04:20,638 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2016-05-17 16:04:20,639 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2016-05-17 16:04:20,644 INFO  - Plus.HabboHotel.Groups.GroupManager >> Group Manager -> LOADED
+2016-05-17 16:04:20,650 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2016-05-17 16:04:20,673 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2016-05-17 16:04:20,697 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2016-05-17 16:04:20,702 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2016-05-17 16:04:20,704 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2016-05-17 16:04:20,706 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2016-05-17 16:04:20,733 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2016-05-17 16:04:20,799 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2016-05-17 16:04:20,812 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2016-05-17 16:04:20,812 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2016-05-17 16:04:20,813 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2016-05-17 16:04:20,813 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2016-05-17 16:04:20,816 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2016-05-17 16:04:20,859 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2016-05-17 16:04:20,860 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2016-05-17 16:04:20,862 INFO  - Plus.PlusEnvironment >> EMULATOR -> READY! (1 s, 11 ms)
+2016-05-17 21:19:38,469 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2016-05-17 21:19:39,467 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2016-05-17 21:19:39,467 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2016-05-17 21:19:39,467 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2016-05-17 21:19:39,467 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 0 username and machine bans.
+2016-05-17 21:19:39,467 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2016-05-17 21:19:40,060 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2016-05-17 21:19:40,934 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2016-05-17 21:19:41,090 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2016-05-17 21:19:41,308 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2016-05-17 21:19:41,464 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2016-05-17 21:19:41,807 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2016-05-17 21:19:41,807 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2016-05-17 21:19:41,854 INFO  - Plus.HabboHotel.Groups.GroupManager >> Group Manager -> LOADED
+2016-05-17 21:19:41,885 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2016-05-17 21:19:41,948 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2016-05-17 21:19:42,057 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2016-05-17 21:19:42,072 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2016-05-17 21:19:42,072 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2016-05-17 21:19:42,104 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2016-05-17 21:19:42,322 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2016-05-17 21:19:42,494 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2016-05-17 21:19:42,556 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2016-05-17 21:19:42,556 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2016-05-17 21:19:42,556 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2016-05-17 21:19:42,556 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2016-05-17 21:19:42,603 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2016-05-17 21:19:42,696 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2016-05-17 21:19:42,696 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2016-05-17 21:19:42,712 INFO  - Plus.PlusEnvironment >> EMULATOR -> READY! (5 s, 600 ms)
