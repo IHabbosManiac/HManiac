@@ -1,0 +1,7 @@
+[2016-05-07 01:03:02] [Msg] Table Type - SQL script file
+[2016-05-07 01:03:02] [Msg] Getting and Exporting data ...
+[2016-05-07 01:03:02] [Msg] Export table [cms_settings]
+[2016-05-07 01:03:02] [Msg] Export to - C:\Users\Administrator\Desktop\cms_settings.sql
+[2016-05-07 01:03:02] [Msg] Export table [users]
+[2016-05-07 01:03:02] [Msg] Export to - C:\Users\Administrator\Desktop\users(2).sql
+[2016-05-07 01:03:02] [Msg] Finished - Successfully
